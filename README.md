@@ -48,3 +48,11 @@ Inter-VLAN routing
 DHCP relay and IP helper configuration
 
 Security enhancements (enable passwords, SSH access
+
+
+Author
+
+Name: Musa Mahlangu
+Module: CMPG 325 – Computer Networks
+Institution: North-West University (NWU)
+Year: 2025
